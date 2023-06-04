@@ -1,2 +1,2 @@
 # Copi.EnableGlitches
- Enables glitches
+ Allows you to enable old features and glitches!
