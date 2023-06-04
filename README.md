@@ -1,0 +1,2 @@
+# Copi.EnableGlitches
+ Enables glitches

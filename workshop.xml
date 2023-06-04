@@ -1,0 +1,68 @@
+<Mod
+name="Copi's Enable Glitches"
+description="
+[img]https://i.imgur.com/5aDRWYk.png[/img]
+
+[HR][/HR]
+Adds mod settings which allow you to restore glitches removed as of may 16 2023!  
+
+[u][b][i]Attributions and Thanks[/i][/b][/u]
+[list]
+    [*]Nathan
+    [list][*]Uploading Tweakaroo mod, which served as an example of appending magic numbers.[/list] 
+    [*]Teh60
+    [list][*]Testing the mod.[/list] 
+    [*]Conga Lyne
+    [list][*]Testing the mod.[/list] 
+[/list]
+
+[u][b][i]Mod Settings[/i][/b][/u]
+[list]
+    [*]Wand Tag Naming
+    [list][*]Items with the Wand tag will forcibly display the name 'Wand'.[/list]
+    [list][*]Requires a restart or new game to change.[/list]
+    [list][*]True by default.[/list]
+    [*]Close Inventory When Dragging
+    [list][*]Allow the inventory to be closed while dragging items.[/list]
+    [list][*]Requires a restart or new game to change.[/list]
+    [list][*]False by default.[/list]
+    [*]Edit Spells Inventory
+    [list][*]Allow spells to be moved in the inventory without Tinker With Wands Everywhere.[/list]
+    [list][*]Requires a restart or new game to change.[/list]
+    [list][*]True by default.[/list]
+    [*]Tabletkinesis
+    [list][*]Allow the item possession glitch on tablets.[/list]
+    [list][*]Requires a restart or new game to change.[/list]
+    [list][*]True by default.[/list]
+    [*]General Itemkinesis
+    [list][*]Allow the item possession glitch on throwable items.[/list]
+    [list][*]Requires a restart or new game to change.[/list]
+    [list][*]False by default.[/list]
+    [*]5 Wanding
+    [list][*]Allow the 5 wanding glitch to be used.[/list]
+    [list][*]Requires a restart or new game to change.[/list]
+    [list][*]False by default.[/list]
+    [*]Alt Tab Silliness
+    [list][*]Allow alt tab related exploits.[/list]
+    [list][*]Requires a restart or new game to change.[/list]
+    [list][*]False by default.[/list]
+    [*]Internal IDs in Progress
+    [list][*]Show internal IDs in the progress menu.[/list]
+    [list][*]Requires a restart or new game to change.[/list]
+    [list][*]False by default.[/list]
+[/list]
+
+[u][b][i]Warnings[/i][/b][/u]
+[list]
+    [*]As of uploading this mod, this relies on Beta Branch features.
+    [list][*]This may change in the future.[/list]
+[/list]
+
+[HR][/HR]
+[url=https://discord.gg/mmMxjDBGnS][img]https://i.imgur.com/WeQePRb.png[/img][/url]
+[url=https://steamcommunity.com/id/Humerror/myworkshopfiles/][img]https://i.imgur.com/zVKMxSQ.png[/img][/url]
+"
+tags="gameplay,tweaks"
+dont_upload_folders=".assets" 
+dont_upload_files=""
+/>
